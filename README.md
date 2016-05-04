@@ -1,1 +1,1 @@
-一个自定义的可移动和手势缩放的view ， 并且可添加多个 对应项目里的GesturesView
+ImageView手势缩放 使用Matrix， 并且可添加多个 对应项目里的GesturesView
